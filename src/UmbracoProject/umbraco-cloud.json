@@ -1,16 +1,17 @@
 {
   "Deploy": {
     "Project": {
-      "Name": "floyds self confident panda",
-      "Alias": "floyds-self-confident-panda",
+      "Name": "CloudProject",
+      "Alias": "cloudproject",
       "Id": "a9b9b7a2-2857-4621-8a2b-d8614db8d6d2",
+      "Url": "https://www.s1.umbraco.io/project/cloudproject",
       "TrialExpireDate": "2025-12-18T10:26:31.0000000",
       "Workspaces": [
         {
           "Id": "269e56ca-8998-48d8-95c1-815662b46642",
           "Name": "Live",
           "Type": "live",
-          "Url": "https://floyds-self-confident-panda.euwest01.umbraco.io"
+          "Url": "https://cloudproject.euwest01.umbraco.io"
         }
       ]
     },
